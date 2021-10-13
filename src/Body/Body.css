@@ -1,0 +1,17 @@
+.Body_Big_Container {
+    height: 100%;
+    width: 100px;
+    margin-left: 600px;
+    margin-top: -500px;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.Body_Big_Container_box{
+    height: 100px;
+    width: 1000px;
+    margin-left: -360px;
+    background-color: gainsboro;
+    margin-top:20px;
+}

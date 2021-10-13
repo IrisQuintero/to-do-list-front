@@ -1,0 +1,111 @@
+[
+    {
+    
+        "tema": "Pago vencido",
+        "detalleCaso":{
+            "nombreSolicitante": "Sandra Vela",
+            "contactoSolicitante":{
+                "telefono": 8180302003,
+                "correo": "artemiss@hotmail.com"
+            },
+            "curso": "Desarrollo Web",
+            "statusSolicitante": "Estudiante",
+            "descripcionCaso":"Aqui va la descripción de caso a revisar. Saludos"
+        },
+        "statusCaso": "Abierto",
+        "fechaYHora": "9/24/21 3:39pm",
+        "asignado": {
+            "area":"pagos",
+            "IdEncargado":""
+           
+
+        }
+    },
+
+    {
+        
+        "tema": "Facturación",
+        "detalleCaso":{
+            "nombreSolicitante": "José Gutierrez",
+            "contactoSolicitante":{
+                "telefono": 5543877987,
+                "correo": "josh09@gmail.com"
+            },
+            "curso": "Data Sacience",
+            "statusSolicitante": "Estudiante",
+            "descripcionCaso":"Aqui va la descripción de caso a revisar. Saludos"
+        },
+        "statusCaso": "Asignado",
+        "fechYHora": "9/25/21 4:39pm",
+        "asignado": {
+            "area":"pagos",
+            "IdEncargado": ""
+           
+        }
+    },
+
+    {
+    
+        "tema": "Trámite certificado",
+        "detalleCaso":{
+            "nombreSolicitante": "Marielva Garza",
+            "contactoSolicitante":{
+                "telefono":6634567234,
+                "correo": "mariely@hotmail.com"
+            },
+            "curso": "Diseño ux/ui",
+            "statusSolicitante": "Ex-alumno",
+            "descripcionCaso":"Aqui va la descripción de caso a revisar. Saludos"
+        },
+        "statusCaso": "Abierto",
+        "fechaYHora": "9/27/21 6:40pm",
+        "asignado": {
+            "area":"tramites",
+            "IdEncargado":""
+           
+        }
+    },
+
+    {
+
+        "tema": "cambio de curso",
+        "detalleCaso":{
+            "nombreSolicitante": "Jonathan García",
+            "contactoSolicitante":{
+                "telefono": 8140567823,
+                "correo": "eljony87@gmail.com"
+            },
+            "curso": "Mkt Digital",
+            "statusSolicitante": "Alumno",
+            "descripcionCaso":"Aqui va la descripción de caso a revisar. Saludos"
+        },
+        "statusCaso": "Cerrado",
+        "fechaYHora": "9/28/21 3:20pm",
+        "asignado": {
+            "area":"inscripciones",
+            "IdEncargado":""
+           
+        }
+    },
+
+    {
+        "tema": "Baja de curso",
+        "detalleCaso":{
+            "nombreSolicitante": "Melesio Díaz",
+            "contactoSolicitante":{
+                "telefono": 8112908765,
+                "correo": "melediaz@hotmai.com"
+            },
+            "curso": "Mkt Digital",
+            "statusSolicitante": "Alumno",
+            "descripcionCaso":"Aqui va la descripción de caso a revisar. Saludos"
+        },
+        "statusCaso": "Cerrado",
+        "fechaYHora": "9/29/21 1:15pm",
+        "asignado": {
+            "area":"tramites",
+            "IdEncargado":""
+             
+        }
+    }
+]

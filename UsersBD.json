@@ -1,0 +1,37 @@
+
+[
+
+
+    {
+        "nombreUsuario":"Jessica Cepeda",
+        "contacto":{
+            "telefono":"81234567",
+            "correo":"jess21@hotmail.com"
+        },
+
+        "usertype": "User"
+    
+    },
+
+    {
+        "nombreUsuario":"Pedro Figueroa",
+        "contacto":{
+            "telefono":"66457893",
+            "correo":"pedritofig@hotmail.com"
+        },
+
+        "usertype": "Admin"
+    
+    },
+
+    {
+        "nombreUsuario":"Iris Quintero",
+        "contacto":{
+            "telefono":"81802030",
+            "correo":"irisenvy87@gmail.com"
+        },
+
+        "usertype": "Admin"
+    
+    }
+]
